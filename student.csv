@@ -1,0 +1,101 @@
+Student_ID,First_Name,Last_Name,Email,Gender,Age,Department,Attendance,Tier,Score,Final_Score,Assignment,Average_Business_Score,Average_Participation_Score,Total_Score,Grade,Study_Hours,Internet_Access,Parent_Education,Family_Income,Stress_Level,Extra_Curricular_Score
+STD1000,Meera,Patel,student0@college.edu,Female,22,IT,98,Tier 1,90,81,66,72,83,95,E,4,Yes,PhD,High,High,4
+STD1001,Priya,Sharma,student1@college.edu,Male,18,Civil,95,Tier 3,98,83,48,92,89,83,A,1,Yes,PhD,Medium,Medium,7
+STD1002,Rahul,Mehta,student2@college.edu,Male,21,Electronics,92,Tier 1,63,77,65,61,53,74,E,2,No,Master,Low,High,9
+STD1003,Neha,Mehta,student3@college.edu,Female,18,Computer Science,89,Tier 1,64,80,96,60,92,88,E,1,Yes,High School,Low,Medium,2
+STD1004,Meera,Nair,student4@college.edu,Female,21,Civil,96,Tier 3,80,57,86,45,95,67,C,5,Yes,Bachelor,High,Low,3
+STD1005,Arjun,Reddy,student5@college.edu,Male,18,IT,82,Tier 1,50,88,96,45,50,64,B,1,No,Bachelor,Low,Medium,8
+STD1006,Rohan,Kumar,student6@college.edu,Male,23,Civil,69,Tier 3,52,75,61,94,48,88,A,2,Yes,High School,Low,High,6
+STD1007,Meera,Nair,student7@college.edu,Female,22,Computer Science,64,Tier 1,65,83,86,87,73,63,C,4,No,Master,Medium,High,0
+STD1008,Rahul,Das,student8@college.edu,Male,21,Biotech,95,Tier 1,72,52,95,43,51,71,B,5,No,Master,Low,Medium,3
+STD1009,Neha,Kumar,student9@college.edu,Female,24,Biotech,93,Tier 2,60,99,69,69,74,61,B,2,No,PhD,Medium,Low,3
+STD1010,Priya,Sharma,student10@college.edu,Female,20,Civil,90,Tier 2,61,61,82,50,74,86,D,5,Yes,High School,High,Low,8
+STD1011,Rahul,Kumar,student11@college.edu,Male,18,Mechanical,69,Tier 3,59,50,87,69,40,90,A,3,Yes,High School,Low,Medium,5
+STD1012,Rahul,Reddy,student12@college.edu,Male,18,Civil,78,Tier 2,81,93,56,70,79,95,B,1,Yes,Bachelor,High,Medium,8
+STD1013,Rohan,Kumar,student13@college.edu,Female,21,Electronics,91,Tier 3,65,54,65,63,61,95,C,3,No,High School,High,High,5
+STD1014,Karan,Sharma,student14@college.edu,Female,20,Electronics,60,Tier 2,57,79,75,94,99,85,D,2,Yes,Master,Low,Low,5
+STD1015,Neha,Reddy,student15@college.edu,Male,20,Biotech,64,Tier 1,87,79,40,48,68,86,A,4,No,High School,Low,Medium,4
+STD1016,Isha,Bose,student16@college.edu,Female,23,Mechanical,63,Tier 3,61,66,47,94,47,64,E,5,No,Bachelor,High,Low,4
+STD1017,Rahul,Mehta,student17@college.edu,Male,24,Computer Science,75,Tier 3,73,97,88,42,50,79,C,1,Yes,PhD,Low,Medium,1
+STD1018,Karan,Mehta,student18@college.edu,Female,23,Electronics,83,Tier 1,77,96,74,90,80,70,B,5,No,Bachelor,Medium,Medium,7
+STD1019,Isha,Joshi,student19@college.edu,Male,23,Biotech,75,Tier 3,57,72,91,70,76,69,B,2,Yes,Bachelor,Medium,Low,7
+STD1020,Neha,Bose,student20@college.edu,Male,23,IT,61,Tier 3,77,64,54,79,53,99,C,5,Yes,PhD,Low,Medium,0
+STD1021,Aarav,Bose,student21@college.edu,Male,23,Biotech,87,Tier 2,85,86,86,76,99,97,B,1,Yes,Bachelor,High,Medium,7
+STD1022,Arjun,Kumar,student22@college.edu,Female,23,Electronics,91,Tier 3,75,70,95,75,69,65,D,2,Yes,Bachelor,Low,High,4
+STD1023,Karan,Mehta,student23@college.edu,Female,22,Electronics,86,Tier 1,57,63,61,63,74,67,A,5,Yes,High School,Low,Medium,1
+STD1024,Diya,Sharma,student24@college.edu,Male,20,Biotech,79,Tier 2,99,51,53,70,60,82,D,4,No,High School,High,Medium,1
+STD1025,Aarav,Singh,student25@college.edu,Female,23,Computer Science,83,Tier 2,77,60,65,45,76,85,B,2,No,PhD,High,Medium,5
+STD1026,Arjun,Singh,student26@college.edu,Male,20,Civil,71,Tier 1,77,88,67,41,44,71,E,2,No,High School,Medium,High,8
+STD1027,Rohan,Reddy,student27@college.edu,Male,20,Electronics,94,Tier 1,86,87,62,59,58,85,A,4,Yes,High School,High,Low,0
+STD1028,Meera,Mehta,student28@college.edu,Female,19,Biotech,92,Tier 2,90,83,53,67,98,72,A,3,Yes,Bachelor,Medium,High,5
+STD1029,Priya,Mehta,student29@college.edu,Female,22,Biotech,92,Tier 3,85,87,63,50,53,99,C,1,Yes,Master,High,High,8
+STD1030,Diya,Singh,student30@college.edu,Male,23,Mechanical,96,Tier 2,76,99,41,43,65,77,C,3,No,High School,Low,Low,7
+STD1031,Rohan,Mehta,student31@college.edu,Female,18,Civil,71,Tier 1,66,83,84,54,43,84,E,5,Yes,Master,Medium,High,5
+STD1032,Neha,Kumar,student32@college.edu,Female,21,IT,62,Tier 2,58,67,65,45,64,92,A,4,No,High School,Medium,Low,2
+STD1033,Rohan,Das,student33@college.edu,Male,24,Computer Science,60,Tier 1,82,79,53,93,84,99,E,3,No,High School,Medium,High,7
+STD1034,Meera,Patel,student34@college.edu,Male,18,IT,92,Tier 2,69,64,98,88,81,71,C,2,Yes,PhD,Low,Low,8
+STD1035,Neha,Bose,student35@college.edu,Female,22,Civil,99,Tier 3,62,76,95,69,64,95,C,5,Yes,PhD,Low,Medium,0
+STD1036,Diya,Joshi,student36@college.edu,Male,21,Civil,69,Tier 2,77,83,90,95,57,63,A,5,No,PhD,Low,High,8
+STD1037,Meera,Reddy,student37@college.edu,Male,22,Civil,88,Tier 2,97,87,46,77,79,64,D,3,Yes,Master,Low,High,5
+STD1038,Isha,Das,student38@college.edu,Female,20,IT,72,Tier 1,78,82,42,90,47,96,B,3,No,Bachelor,Low,High,5
+STD1039,Priya,Singh,student39@college.edu,Male,21,Civil,71,Tier 1,62,73,86,96,78,67,C,4,Yes,High School,Medium,High,3
+STD1040,Diya,Bose,student40@college.edu,Male,20,Biotech,90,Tier 1,95,64,62,41,79,87,C,1,Yes,High School,Low,Medium,0
+STD1041,Isha,Mehta,student41@college.edu,Female,18,IT,61,Tier 2,84,79,85,54,53,90,D,3,No,High School,Medium,High,9
+STD1042,Arjun,Joshi,student42@college.edu,Female,18,Civil,94,Tier 3,55,91,82,50,71,68,D,3,Yes,Master,Low,Medium,7
+STD1043,Diya,Mehta,student43@college.edu,Male,21,Biotech,82,Tier 1,67,66,86,47,90,88,E,2,No,PhD,High,Medium,1
+STD1044,Arjun,Sharma,student44@college.edu,Male,21,Mechanical,76,Tier 1,54,54,99,65,77,73,E,5,Yes,Bachelor,Medium,Medium,0
+STD1045,Neha,Sharma,student45@college.edu,Female,23,Civil,85,Tier 2,96,78,84,90,72,99,B,1,No,Master,High,Medium,1
+STD1046,Isha,Joshi,student46@college.edu,Female,22,IT,67,Tier 1,74,53,57,84,62,81,B,2,No,PhD,Medium,Low,0
+STD1047,Priya,Joshi,student47@college.edu,Female,23,Electronics,88,Tier 3,51,59,97,83,54,70,A,4,Yes,Master,High,Low,0
+STD1048,Meera,Singh,student48@college.edu,Female,22,Civil,85,Tier 3,59,66,77,44,72,82,E,4,No,Bachelor,Low,High,8
+STD1049,Rahul,Joshi,student49@college.edu,Male,23,Electronics,69,Tier 1,79,59,74,45,64,60,C,3,Yes,PhD,Low,Low,0
+STD1050,Rohan,Kumar,student50@college.edu,Female,20,Biotech,85,Tier 1,99,66,90,65,56,96,E,3,Yes,Master,Low,Low,3
+STD1051,Aarav,Mehta,student51@college.edu,Female,21,Mechanical,93,Tier 2,94,69,54,93,72,80,C,4,Yes,Bachelor,Medium,High,9
+STD1052,Priya,Das,student52@college.edu,Male,18,Computer Science,66,Tier 3,54,73,64,43,86,85,D,3,No,High School,High,High,5
+STD1053,Isha,Nair,student53@college.edu,Female,22,Mechanical,63,Tier 3,82,54,94,58,94,95,E,1,No,Bachelor,Low,High,6
+STD1054,Rahul,Joshi,student54@college.edu,Male,22,Civil,70,Tier 1,50,83,76,59,41,82,D,3,Yes,High School,High,Low,1
+STD1055,Priya,Reddy,student55@college.edu,Female,18,Electronics,88,Tier 2,67,55,67,72,53,60,B,5,Yes,Master,High,Low,5
+STD1056,Isha,Sharma,student56@college.edu,Female,23,Electronics,95,Tier 3,81,51,49,59,92,99,B,3,No,PhD,Low,High,6
+STD1057,Karan,Kumar,student57@college.edu,Female,22,IT,84,Tier 3,96,62,78,88,79,74,A,2,Yes,PhD,Low,Medium,9
+STD1058,Karan,Bose,student58@college.edu,Male,24,Electronics,80,Tier 2,98,92,96,51,79,80,E,1,Yes,Master,High,High,9
+STD1059,Arjun,Nair,student59@college.edu,Male,20,IT,95,Tier 2,60,92,56,86,90,68,D,2,No,PhD,Low,Medium,1
+STD1060,Priya,Das,student60@college.edu,Female,21,Biotech,69,Tier 3,70,97,78,40,78,68,C,2,Yes,PhD,Low,Medium,1
+STD1061,Karan,Nair,student61@college.edu,Male,18,Computer Science,96,Tier 3,75,60,61,65,90,69,B,5,No,High School,Low,High,9
+STD1062,Isha,Joshi,student62@college.edu,Male,21,Civil,68,Tier 2,74,96,65,53,45,85,B,1,Yes,Master,Medium,High,6
+STD1063,Arjun,Singh,student63@college.edu,Male,24,IT,83,Tier 3,71,72,83,77,45,94,C,1,No,Bachelor,High,High,0
+STD1064,Isha,Sharma,student64@college.edu,Male,22,Computer Science,94,Tier 1,76,65,64,76,42,84,D,1,Yes,High School,High,Low,7
+STD1065,Arjun,Sharma,student65@college.edu,Male,22,Electronics,94,Tier 1,98,80,56,50,46,85,D,1,Yes,Master,Medium,Medium,2
+STD1066,Priya,Bose,student66@college.edu,Male,24,Electronics,95,Tier 2,62,60,52,75,90,70,E,1,No,High School,High,Low,5
+STD1067,Rahul,Singh,student67@college.edu,Female,18,Computer Science,77,Tier 2,82,65,59,52,47,97,E,5,Yes,Bachelor,Low,Low,8
+STD1068,Meera,Mehta,student68@college.edu,Female,20,Electronics,98,Tier 2,83,57,64,82,81,61,A,3,No,Bachelor,High,High,5
+STD1069,Diya,Patel,student69@college.edu,Male,19,Biotech,91,Tier 1,90,53,43,42,91,66,B,2,Yes,Master,Low,Low,8
+STD1070,Rahul,Kumar,student70@college.edu,Female,18,Biotech,83,Tier 3,84,89,49,72,54,77,E,1,No,Bachelor,Medium,High,6
+STD1071,Neha,Sharma,student71@college.edu,Female,19,Computer Science,82,Tier 1,50,53,42,45,86,86,D,3,No,High School,Low,Medium,8
+STD1072,Isha,Reddy,student72@college.edu,Female,24,IT,91,Tier 3,70,74,80,89,68,93,C,3,No,Bachelor,High,High,1
+STD1073,Neha,Sharma,student73@college.edu,Female,23,IT,96,Tier 1,97,52,84,95,72,86,D,2,No,High School,High,Low,7
+STD1074,Rahul,Nair,student74@college.edu,Male,19,Computer Science,71,Tier 3,55,81,57,49,91,76,B,5,Yes,High School,High,Low,7
+STD1075,Arjun,Sharma,student75@college.edu,Female,20,IT,72,Tier 1,77,52,86,44,69,83,D,4,Yes,Bachelor,Medium,High,1
+STD1076,Diya,Sharma,student76@college.edu,Female,23,IT,82,Tier 2,66,76,75,62,78,84,A,4,No,Master,Medium,High,3
+STD1077,Diya,Patel,student77@college.edu,Male,19,Biotech,84,Tier 1,54,78,86,49,66,66,B,3,No,PhD,High,Low,6
+STD1078,Aarav,Patel,student78@college.edu,Male,24,IT,94,Tier 3,80,81,61,83,75,65,C,2,No,Bachelor,Low,Medium,3
+STD1079,Diya,Das,student79@college.edu,Female,23,Mechanical,89,Tier 1,54,99,73,41,68,83,A,4,Yes,High School,Medium,Medium,3
+STD1080,Meera,Mehta,student80@college.edu,Female,24,Civil,76,Tier 1,87,68,86,52,77,92,B,3,Yes,High School,High,High,5
+STD1081,Diya,Reddy,student81@college.edu,Female,19,Electronics,79,Tier 1,52,70,47,79,96,88,C,5,Yes,Bachelor,High,Medium,9
+STD1082,Rahul,Sharma,student82@college.edu,Female,24,Mechanical,84,Tier 2,72,54,79,41,72,81,A,4,Yes,Master,Medium,Low,5
+STD1083,Aarav,Sharma,student83@college.edu,Female,20,IT,81,Tier 1,86,67,88,59,76,85,A,3,No,Master,Medium,High,9
+STD1084,Rahul,Kumar,student84@college.edu,Female,19,Biotech,72,Tier 2,86,77,83,40,66,87,B,3,No,High School,Medium,Low,2
+STD1085,Rahul,Patel,student85@college.edu,Male,19,Computer Science,78,Tier 2,59,91,58,76,94,80,E,1,No,High School,Low,Low,8
+STD1086,Rohan,Reddy,student86@college.edu,Female,19,IT,95,Tier 1,59,71,81,48,72,66,A,5,Yes,Master,Low,Medium,9
+STD1087,Aarav,Bose,student87@college.edu,Female,18,Biotech,71,Tier 1,68,70,80,56,43,76,A,1,Yes,PhD,High,High,1
+STD1088,Rahul,Das,student88@college.edu,Male,18,Civil,78,Tier 1,66,55,76,48,61,79,C,2,Yes,Bachelor,Medium,High,5
+STD1089,Rohan,Mehta,student89@college.edu,Male,18,IT,71,Tier 3,70,50,45,50,41,79,D,1,No,High School,Low,Medium,6
+STD1090,Rohan,Singh,student90@college.edu,Male,20,Computer Science,68,Tier 1,63,54,91,54,49,81,B,1,No,High School,Medium,Low,8
+STD1091,Aarav,Mehta,student91@college.edu,Male,23,Biotech,66,Tier 2,58,90,65,63,44,87,B,4,Yes,Master,High,Low,2
+STD1092,Neha,Nair,student92@college.edu,Female,24,Biotech,87,Tier 1,95,61,73,77,98,99,E,3,No,Bachelor,Low,Low,9
+STD1093,Arjun,Sharma,student93@college.edu,Female,22,Biotech,73,Tier 3,50,75,98,94,49,66,E,5,Yes,Master,Low,Low,2
+STD1094,Meera,Das,student94@college.edu,Female,19,Civil,90,Tier 1,94,95,95,74,72,60,B,1,Yes,Bachelor,Low,High,6
+STD1095,Arjun,Nair,student95@college.edu,Female,24,IT,78,Tier 3,62,83,98,69,93,91,E,5,No,Bachelor,High,High,3
+STD1096,Diya,Reddy,student96@college.edu,Female,19,Civil,75,Tier 3,53,98,84,70,77,72,C,1,Yes,Bachelor,Medium,Medium,7
+STD1097,Meera,Singh,student97@college.edu,Female,20,Electronics,64,Tier 1,50,63,45,88,52,89,B,2,No,High School,Low,Medium,6
+STD1098,Diya,Patel,student98@college.edu,Male,19,Electronics,94,Tier 2,98,75,76,44,70,82,E,1,Yes,PhD,High,High,4
+STD1099,Rahul,Das,student99@college.edu,Female,18,IT,71,Tier 3,89,94,96,99,86,78,B,4,No,Master,Medium,High,6
