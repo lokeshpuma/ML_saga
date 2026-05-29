@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="ML_saga — hands-on machine learning notebooks covering regression, clustering, and student performance prediction." />
+  <title>ML_saga | Machine Learning Practice</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav" aria-label="Primary">
+      <a class="logo" href="#">ML<span>_saga</span></a>
+      <ul class="nav-links">
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#stack">Stack</a></li>
+        <li><a href="https://github.com/lokeshpuma/ML_saga" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+      </ul>
+    </nav>
+    <section class="hero">
+      <p class="eyebrow">Machine Learning · Practice Repository</p>
+      <h1>Hands-on ML with real datasets</h1>
+      <p class="lead">
+        Jupyter notebooks exploring regression, K-Means clustering, exploratory data analysis,
+        and student performance prediction using Python, NumPy, Pandas, and scikit-learn.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="https://github.com/lokeshpuma/ML_saga/tree/main/notebooks" target="_blank" rel="noopener noreferrer">Browse notebooks</a>
+        <a class="btn btn-ghost" href="#projects">View projects</a>
+      </div>
+    </section>
+  </header>
+
+  <main>
+    <section id="projects" class="section">
+      <h2>Projects</h2>
+      <p class="section-intro">Each notebook lives in the repo under <code>notebooks/</code> with datasets in <code>data/</code>.</p>
+      <div class="card-grid">
+        <article class="card">
+          <span class="tag">Regression</span>
+          <h3>Linear Regression</h3>
+          <p>Build and evaluate regression models on tabular sample data.</p>
+          <a href="https://github.com/lokeshpuma/ML_saga/blob/main/notebooks/reg.ipynb" target="_blank" rel="noopener noreferrer">Open notebook →</a>
+        </article>
+        <article class="card">
+          <span class="tag">Clustering</span>
+          <h3>K-Means</h3>
+          <p>Cluster analysis with K-Means and visual exploration of results.</p>
+          <a href="https://github.com/lokeshpuma/ML_saga/blob/main/notebooks/k_mean.ipynb" target="_blank" rel="noopener noreferrer">Open notebook →</a>
+        </article>
+        <article class="card">
+          <span class="tag">EDA</span>
+          <h3>Data Analysis</h3>
+          <p>Exploratory workflows with Pandas on structured CSV datasets.</p>
+          <a href="https://github.com/lokeshpuma/ML_saga/blob/main/notebooks/one.ipynb" target="_blank" rel="noopener noreferrer">Open notebook →</a>
+        </article>
+        <article class="card">
+          <span class="tag">Classification</span>
+          <h3>Student Performance</h3>
+          <p>Predict student outcomes from performance and demographic features.</p>
+          <a href="https://github.com/lokeshpuma/ML_saga/blob/main/notebooks/student_success.ipynb" target="_blank" rel="noopener noreferrer">Open notebook →</a>
+        </article>
+        <article class="card">
+          <span class="tag">Projects</span>
+          <h3>Student ML Projects</h3>
+          <p>End-to-end practice projects using the student dataset.</p>
+          <a href="https://github.com/lokeshpuma/ML_saga/blob/main/notebooks/project-1.ipynb" target="_blank" rel="noopener noreferrer">Project 1 →</a>
+          <a class="card-link-secondary" href="https://github.com/lokeshpuma/ML_saga/blob/main/notebooks/project-2.ipynb" target="_blank" rel="noopener noreferrer">Project 2 →</a>
+        </article>
+      </div>
+    </section>
+
+    <section id="stack" class="section section-alt">
+      <h2>Tech stack</h2>
+      <ul class="stack-list">
+        <li>Python</li>
+        <li>NumPy</li>
+        <li>Pandas</li>
+        <li>scikit-learn</li>
+        <li>Matplotlib / Seaborn</li>
+        <li>Jupyter</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Run locally</h2>
+      <pre class="code-block"><code>git clone https://github.com/lokeshpuma/ML_saga.git
+cd ML_saga
+pip install jupyter pandas numpy scikit-learn matplotlib seaborn
+jupyter notebook notebooks/</code></pre>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      <a href="https://github.com/lokeshpuma/ML_saga" target="_blank" rel="noopener noreferrer">ML_saga on GitHub</a>
+      · Deployed with GitHub Pages
+    </p>
+  </footer>
+</body>
+</html>
